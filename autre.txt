@@ -1,3 +1,0 @@
-Cecei est un fichier txt
-Test d'edition avec Git
-retest
